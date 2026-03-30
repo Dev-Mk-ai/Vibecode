@@ -1,8 +1,7 @@
-==========================================================
 PROJECT: VibeCode - Local AI IDE
 HARDWARE: Intel i5-6th Gen / 12GB RAM Optimization
 TARGET: $100 Milestone / GitHub Portfolio
-==========================================================
+==============================================
 
 [1] ROOT STRUCTURE (vibecode/)
 ----------------------------------------------------------
@@ -63,7 +62,7 @@ torch.set_num_threads(os.cpu_count())
 
 > **Hardware-Agile:** Optimized to run 1.5B+ parameter models on legacy hardware (e.g., Intel i5-6th Gen) using multi-threaded CPU orchestration.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Step 1 — Start the local AI server
 cd api
@@ -79,13 +78,13 @@ npm start
 2. Use URL: http://127.0.0.1:8000/generate
 3. Click "Save & Connect" and start coding.
 
-## ⌨️ Keyboard Shortcuts
+## Keyboard Shortcuts
 - Ctrl+S: Save File
 - Ctrl+J: Toggle AI Assistant
 - Ctrl+B: Toggle File Tree
 - Ctrl+Shift+R: Refactor Selection
 
-## 🛡️ License & Privacy
+## License & Privacy
 100% Local. Your code never leaves your machine. Distributed under MIT License.
 
 
@@ -99,6 +98,5 @@ npm start
 6. git remote add origin [YOUR_GITHUB_REPO_URL]
 7. git push -u origin main
 
-===========================================================
 END OF Project (Yes I know the formating is a little extra) 
-===========================================================
+-------------------------------------------------------------

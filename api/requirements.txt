@@ -1,0 +1,15 @@
+# Web Server
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.0.0
+python-multipart  # Needed if you ever add file uploads
+
+# AI Engine
+transformers>=4.38.0
+torch>=2.2.0
+accelerate>=0.27.0
+huggingface-hub    # Manages the model downloads
+einops             # Required for most small-parameter models
+
+# Potential Future-Proofing
+llama-cpp-python>=0.2.0  # Keep this if you plan to switch to GGUF later

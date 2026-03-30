@@ -1,7 +1,7 @@
 PROJECT: VibeCode - Local AI IDE
-HARDWARE: Intel i5-6th Gen / 12GB RAM Optimization
-TARGET: $100 Milestone / GitHub Portfolio
 ==============================================
+
+HARDWARE: Intel i5-6th Gen / 12GB RAM Optimization
 
 [1] ROOT STRUCTURE (vibecode/)
 ----------------------------------------------------------
